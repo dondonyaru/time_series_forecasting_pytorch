@@ -107,7 +107,7 @@ def decomposition_model_forecasting(ts, dataset, lag, h_train, h_test, freq, epo
 
 
 if __name__ == "__main__":
-
+    print("やってる?")
     # parameters
     lag = 24
     h_train = 1
